@@ -428,7 +428,7 @@ This project is created for \*\*educational and cybersecurity learning purposes\
 
 
 
-\## 👩‍💻 Author
+\## Author
 
 
 
@@ -448,7 +448,7 @@ This project is created for \*\*educational and cybersecurity learning purposes\
 
 
 
-\## ⭐ Conclusion
+\## Conclusion
 
 
 
